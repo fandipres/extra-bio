@@ -1,1 +1,1 @@
-The central hub for Fandipres mobile applications, developer assets, and AdMob verification. Managed by @fandipres.
+Extra: Effortless Financial Tracking. A secure, offline expense tracker to monitor your cash flow, multiple wallets, and asset growth.
